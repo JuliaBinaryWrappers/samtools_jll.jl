@@ -1,0 +1,127 @@
+[[samtools]]
+arch = "aarch64"
+git-tree-sha1 = "e231801ffd0adfa5ad53f3f4c31edb36622c9738"
+os = "macos"
+
+    [[samtools.download]]
+    sha256 = "f68881fea5d1ec2015f726d0b1a42ca1aae931f08206836aca285993f73532b6"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.aarch64-apple-darwin.tar.gz"
+[[samtools]]
+arch = "aarch64"
+git-tree-sha1 = "0e9f4236783768d19d33e153c63d90fd0e46bba2"
+libc = "glibc"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "87b59bcfd2df51454ec48ca32477eae30bebac8550fece9f4cd11e8ecb229c85"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.aarch64-linux-gnu.tar.gz"
+[[samtools]]
+arch = "aarch64"
+git-tree-sha1 = "b2892782cbccdd6106aad35b321ac552ce463fcd"
+libc = "musl"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "2b8aabe839c7d47aecc91a1b0cd1a4e333a27274b42448ff79b44ab3a96a30d1"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.aarch64-linux-musl.tar.gz"
+[[samtools]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4a74f0b970a1064806328189913bdb798c49825d"
+libc = "glibc"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "c8fe8f86b0c716bafaca69159162a3b3863242a0941eb7516aeb169958190193"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.armv6l-linux-gnueabihf.tar.gz"
+[[samtools]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1e853b10cc69b02f719b7290fe81758fee8bb64a"
+libc = "musl"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "17b0feb513e5dc1de318faf69a69a28d4341e3d6602cd9b451485c33f7e4efca"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.armv6l-linux-musleabihf.tar.gz"
+[[samtools]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "971f5b74b1e40913d74b5ff3b67848e16068a059"
+libc = "glibc"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "50068324c792164f5817c34b1d6eaab25bc2fe5d759e7b0f1d0da799ecd9c0ef"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.armv7l-linux-gnueabihf.tar.gz"
+[[samtools]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5a36182a1c497a53929c51b424e34552c1f7b949"
+libc = "musl"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "ef08bcba989f6a689a1df1393b8e6d4469259797f231e6c9994ee8fc9bd82b58"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.armv7l-linux-musleabihf.tar.gz"
+[[samtools]]
+arch = "i686"
+git-tree-sha1 = "0292c337e18fb5a3e52f29abe68f8e82bb44e607"
+libc = "glibc"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "8ba26013f63cbe88d8f86613b4368ba47dd5aa30bcf860cd51026b2cb303b711"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.i686-linux-gnu.tar.gz"
+[[samtools]]
+arch = "i686"
+git-tree-sha1 = "79ac62fd263abc0faebbf9264ed0db8c93b181aa"
+libc = "musl"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "5657d3f4e811855de46033e767ef75d570fa85becd9ea8b7482e11caf51e8420"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.i686-linux-musl.tar.gz"
+[[samtools]]
+arch = "powerpc64le"
+git-tree-sha1 = "d62ff7baad48d5701c7549b36e3fdbfb0451da43"
+libc = "glibc"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "bc660e0e389af8df0564413b7d4059111adae20299ea8b8a311cc7f64cc6fd35"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.powerpc64le-linux-gnu.tar.gz"
+[[samtools]]
+arch = "x86_64"
+git-tree-sha1 = "2d754f160cd6a942cdcbb8f8574fed9579a1bb39"
+os = "macos"
+
+    [[samtools.download]]
+    sha256 = "a3ac2a436ae83f63d5fb9e18f0be5a3a1b578078672a6afb5023dc4badb96141"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.x86_64-apple-darwin.tar.gz"
+[[samtools]]
+arch = "x86_64"
+git-tree-sha1 = "b1e20f3b6bae5fa2e04df19498b6f6cb36eecda9"
+libc = "glibc"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "28f65fa3f0a95e8a6b66858eb6dca178343b5fca08f8df8b6279246dd3669c2d"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.x86_64-linux-gnu.tar.gz"
+[[samtools]]
+arch = "x86_64"
+git-tree-sha1 = "2be0b996434187aff34ad06b7fa9be011698c331"
+libc = "musl"
+os = "linux"
+
+    [[samtools.download]]
+    sha256 = "ebc1d322b7ebfc733f9c0268209891a1f9086d554dc299257d4cfe548b7b4283"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.x86_64-linux-musl.tar.gz"
+[[samtools]]
+arch = "x86_64"
+git-tree-sha1 = "8544f90aa0a38220b4604c48d69983146f8f2fc2"
+os = "freebsd"
+
+    [[samtools.download]]
+    sha256 = "ca360c731b29858af436634cecedcff77adf02bccda9a0ccc8acc414de2064bb"
+    url = "https://github.com/JuliaBinaryWrappers/samtools_jll.jl/releases/download/samtools-v1.14.0+0/samtools.v1.14.0.x86_64-unknown-freebsd.tar.gz"
